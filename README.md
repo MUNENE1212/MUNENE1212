@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electrical+%26+Electronic+Engineer;Backend+Python+Developer;AI+%26+Data+Science+Enthusiast;Tech+Entrepreneur;Welcome+to+my+Digital+Universe!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electrical+%26+Electronic+Engineer;Fullstack+Developer;AI+%26+Data+Science+Enthusiast;Tech+Entrepreneur;Welcome+to+my+Digital+Universe!)
   
 </div>
 
