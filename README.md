@@ -108,7 +108,7 @@ I'm always excited to connect with fellow developers, entrepreneurs, and tech en
 
 ## 💡 Quote That Drives Me
 
-> *"The future belongs to those who combine electrical engineering precision with software innovation and AI intelligence."*
+> *"Technology should serve humanity, not the other way around. My goal is to create solutions that are not only technically excellent but also meaningful and accessible to the people who need them most."*
 
 ---
 
