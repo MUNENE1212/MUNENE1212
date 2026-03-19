@@ -1,12 +1,14 @@
-# Ementech
+# Munene Denis
 
-**Software for Kenyan businesses.** We build platforms that help SMEs sell, manage, and grow — with AI, IoT, and solid engineering.
+**Founder & CTO at Ementech** | Nairobi, Kenya
 
-Founded by **Munene Denis** | Based in Nairobi, Kenya
+I build software for Kenyan businesses — designed for local realities, built to scale globally. M-Pesa payments, SMS alerts, low-bandwidth optimization, real hardware constraints. If it doesn't work in the field, it doesn't ship.
+
+B.Sc. Electrical & Electronic Engineering (JKUAT). The hardware background shapes how I think about software.
 
 ---
 
-## What We Build
+## What I'm Building
 
 ### [Dumu Waks](https://github.com/MUNENE1212/dumuwaks) — Maintenance & Repair Marketplace
 Connecting skilled technicians with customers across Kenya. AI-powered matching, real-time booking, M-Pesa payments.
@@ -18,16 +20,23 @@ Connecting skilled technicians with customers across Kenya. AI-powered matching,
 ---
 
 ### [Online Shop](https://github.com/MUNENE1212/online-shop) — SME Business Platform
-Multitenancy ERP for small and medium businesses. Sales, inventory, finance, analytics, and an AI chatbot — all in one place.
+Multitenancy ERP helping Kenyan SMEs manage sales, inventory, finance, and analytics. One platform for the small business owner who doesn't have time for five different tools.
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `ClickHouse` `Redis`
 
 ---
 
 ### [TransitTag](https://github.com/MUNENE1212/transittag) — IoT Fleet Dashboard
-Real-time transit vehicle monitoring. MQTT-to-WebSocket bridge with seat management, dynamic pricing, RFID integration, and Grafana dashboards.
+Real-time transit vehicle monitoring. MQTT-to-WebSocket bridge with seat management, dynamic pricing, RFID integration, and Grafana dashboards. Written in C because the hardware demands it.
 
 `C` `libwebsockets` `libmosquitto` `InfluxDB` `Grafana` `Docker`
+
+---
+
+### [KE-ROMA-AI](https://github.com/MUNENE1212/KE-ROMA-AI) — African Recipe AI
+AI-powered African recipe recommendations. Enter your pantry ingredients, get traditional recipes with cultural context and nutritional info. Multi-provider AI fallback (Gemini, OpenAI, Hugging Face, Cohere) and M-Pesa premium tier.
+
+`Python` `FastAPI` `MongoDB` `AI/ML`
 
 ---
 
@@ -38,7 +47,7 @@ Short-form content creation powered by AI. Built for creators who move fast.
 
 ---
 
-## Engineering Stack
+## Stack
 
 **Languages:** Python, TypeScript, JavaScript, C
 
@@ -53,14 +62,6 @@ Short-form content creation powered by AI. Built for creators who move fast.
 **Infrastructure:** Docker, Nginx, GitHub Actions, Grafana, MQTT
 
 **Hardware:** Arduino, Raspberry Pi, RFID, IoT sensors
-
----
-
-## Background
-
-B.Sc. Electrical & Electronic Engineering — JKUAT (2017-2022)
-
-The hardware background shapes how we think about software: real constraints, real users, real infrastructure. Every system we build is designed to run in the Kenyan context — M-Pesa payments, SMS alerts, low-bandwidth optimization.
 
 ---
 
