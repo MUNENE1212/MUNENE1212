@@ -1,6 +1,19 @@
 <div align="center">
 
-# Munene Denis
+<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/banner.svg" alt="Munene Denis — Founder and CTO at EMENTECH" width="100%"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/logo.svg" alt="MD monogram" width="96"/>
+
+</td>
+<td>
 
 **Founder & CTO at [EMENTECH](https://ementech.co.ke) · Nairobi, Kenya**
 
@@ -8,7 +21,9 @@ I build practical software, AI systems, and connected hardware for real-world pr
 
 [Portfolio](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munene-ndegwa-7167b718a) · [X](https://x.com/MunE_nE) · [Email](mailto:mnent@gmail.com)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,7 +39,7 @@ I’m especially interested in technology that works beyond the demo: on a low-b
 | --- | --- | --- |
 | [ArdaLink](https://github.com/MUNENE1212/ardalink-engine) · [API](https://github.com/MUNENE1212/ardalink-api) · [Web](https://github.com/MUNENE1212/ardalink-web) | Satellite-to-pastoralist drought intelligence for Isiolo County, combining environmental data, journey planning, voice workflows, and operator tools. | Python · FastAPI · TypeScript · React · PostgreSQL · Earth Engine |
 | [Dumu Waks](https://github.com/MUNENE1212/dumuwaks) · [Live app](https://dumuwaks.ementech.co.ke) | A Kenya-focused maintenance and repair marketplace with technician matching, booking, real-time communication, and M-Pesa payments. | TypeScript · React · Node.js · MongoDB · Socket.IO |
-| [KEROMA](https://github.com/MUNENE1212/keroma) · [Live app](https://keroma.ementech.co.ke) | African heritage recipe intelligence that connects what is in the kitchen with the cultural context behind the meal. | Next.js · TypeScript · AI · MongoDB · M-Pesa |
+| [KEROMA](https://github.com/MUNENE1212/keroma) · [Live app](https://keroma.ementech.co.ke) | African heritage recipe intelligence that connects what is in your kitchen with the cultural context behind the meal. | Next.js · TypeScript · AI · MongoDB · M-Pesa |
 | [Image Generator](https://github.com/MUNENE1212/image-generator) | A research-oriented image generation studio for identity-preserving portraits, strategy comparison, automated evaluation, and LoRA training. | Python · Streamlit · Replicate · Fal.ai · DuckDB |
 | [TransitTag](https://github.com/MUNENE1212/transittag) | An IoT transport platform that bridges vehicle devices, MQTT telemetry, WebSockets, dashboards, and M-Pesa-enabled passenger experiences. | C · MQTT · WebSockets · InfluxDB · Grafana |
 | [ESP32 labs](https://github.com/MUNENE1212/SPI) · [I2C](https://github.com/MUNENE1212/I2C) · [LED](https://github.com/MUNENE1212/LED) | A growing hardware bench covering buses, displays, sensors, animation, state machines, communication, and Wokwi simulation. | C++ · ESP32 · PlatformIO · Arduino · Wokwi |
@@ -32,6 +47,21 @@ I’m especially interested in technology that works beyond the demo: on a low-b
 More projects are catalogued in the [EMENTECH Vault](https://MUNENE1212.github.io/vault).
 
 ## Technical toolbox
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</p>
 
 **Languages:** Python · TypeScript · JavaScript · C++ · SQL
 
