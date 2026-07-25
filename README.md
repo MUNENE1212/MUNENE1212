@@ -15,7 +15,7 @@
 </td>
 <td>
 
-**Founder & CTO at [EMENTECH](https://ementech.co.ke) · Nairobi, Kenya**
+**Founder & CTO at [EMEN ENGINEERING](https://ementech.co.ke) · Nairobi, Kenya**
 
 I build practical software, AI systems, and connected hardware for real-world problems across Africa.
 
