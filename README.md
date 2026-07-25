@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/banner.svg" alt="Munene Denis — Founder and CTO at EMENTECH" width="100%"/>
+<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/banner.svg" alt="Munene Denis — Founder and CTO at EMEN ENGINEERING" width="100%"/>
 
 </div>
 
