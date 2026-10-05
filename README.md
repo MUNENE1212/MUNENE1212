@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/banner.svg" alt="Munene Denis — Founder and CTO at EMEN ENGINEERING" width="100%"/>
+<img src="https://raw.githubusercontent.com/MUNENE1212/MUNENE1212/master/banner.svg" alt="Munene Denis — Founder and CTO at Emen" width="100%"/>
 
 </div>
 
@@ -15,11 +15,11 @@
 </td>
 <td>
 
-**Founder & CTO at [EMEN ENGINEERING](https://ementech.co.ke) · Nairobi, Kenya**
+**Founder & CTO at [Emen](https://ementech.co.ke) · Nairobi, Kenya**
 
-I build practical software, AI systems, and connected hardware for real-world problems across Africa.
+I lead a team that builds software platforms, applied AI and connected hardware for Kenyan businesses — designed for mobile phones, M-Pesa and real conditions in the field.
 
-[Portfolio](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munene-ndegwa-7167b718a) · [X](https://x.com/MunE_nE) · [Email](mailto:mnent@gmail.com)
+[Portfolio](https://munene1212.github.io) · [Emen](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munene-ndegwa-7167b718a) · [X](https://x.com/MunE_nE) · [Email](mailto:munene@ementech.co.ke)
 
 </td>
 </tr>
@@ -29,7 +29,11 @@ I build practical software, AI systems, and connected hardware for real-world pr
 
 ## About
 
-I’m an Electrical & Electronic Engineer and software builder focused on turning difficult, local problems into dependable products. My work spans business systems, artificial intelligence, climate intelligence, mobile payments, and embedded systems.
+I’m an Electrical & Electronic Engineer and the technical lead at Emen, which works across three lines:
+
+- **Emen Tech** — web and mobile platforms, marketplaces, point of sale and business systems with M-Pesa built in.
+- **Applied AI** — voice agents, geospatial intelligence and generation, with fallbacks so products keep working.
+- **Emen Lighting** — ESP32 firmware, LED signage and IoT telemetry, configured per site and updated over the air.
 
 I’m especially interested in technology that works beyond the demo: on a low-bandwidth connection, on a mobile phone, through an M-Pesa flow, or on a real device in the field.
 
@@ -42,9 +46,10 @@ I’m especially interested in technology that works beyond the demo: on a low-b
 | [KEROMA](https://github.com/MUNENE1212/keroma) · [Live app](https://keroma.ementech.co.ke) | African heritage recipe intelligence that connects what is in your kitchen with the cultural context behind the meal. | Next.js · TypeScript · AI · MongoDB · M-Pesa |
 | [Image Generator](https://github.com/MUNENE1212/image-generator) | A research-oriented image generation studio for identity-preserving portraits, strategy comparison, automated evaluation, and LoRA training. | Python · Streamlit · Replicate · Fal.ai · DuckDB |
 | [TransitTag](https://github.com/MUNENE1212/transittag) | An IoT transport platform that bridges vehicle devices, MQTT telemetry, WebSockets, dashboards, and M-Pesa-enabled passenger experiences. | C · MQTT · WebSockets · InfluxDB · Grafana |
-| [ESP32 labs](https://github.com/MUNENE1212/SPI) · [I2C](https://github.com/MUNENE1212/I2C) · [LED](https://github.com/MUNENE1212/LED) | A growing hardware bench covering buses, displays, sensors, animation, state machines, communication, and Wokwi simulation. | C++ · ESP32 · PlatformIO · Arduino · Wokwi |
+| [Lectern](https://github.com/MUNENE1212/lectern) | Turns any PDF, ebook or article into a chaptered audiobook, entirely offline. | Python · Piper TTS · PyMuPDF |
+| ESP32 labs: [LED](https://github.com/MUNENE1212/LED) · [I2C](https://github.com/MUNENE1212/I2C) · [SPI](https://github.com/MUNENE1212/SPI) · [Serial](https://github.com/MUNENE1212/serial-comms) | A progressive hardware bench covering GPIO, buses, displays, sensors, state machines and serial protocols, simulated in Wokwi. | C++ · ESP32 · PlatformIO · Wokwi |
 
-More projects are catalogued in the [EMENTECH Vault](https://MUNENE1212.github.io/vault).
+Case studies and more work, including private client products, are on my [portfolio](https://munene1212.github.io).
 
 ## Technical toolbox
 
@@ -85,9 +90,11 @@ More projects are catalogued in the [EMENTECH Vault](https://MUNENE1212.github.i
 
 ## Current focus
 
-Building EMENTECH products that combine software engineering, applied AI, and embedded systems to make essential services more accessible across Africa.
+Building Emen products that combine software engineering, applied AI and embedded systems to make essential services more accessible across Africa.
 
-If you’re building for Kenya or solving a meaningful problem with technology, [let’s talk](mailto:mnent@gmail.com).
+## Work with me
+
+If you’re a business, NGO or partner building for Kenya and need a platform, an AI feature or a connected device taken from idea to production, [email me](mailto:munene@ementech.co.ke) or see the [portfolio](https://munene1212.github.io).
 
 ---
 
