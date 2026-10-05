@@ -19,7 +19,7 @@
 
 I lead a team that builds software platforms, applied AI and connected hardware for Kenyan businesses — designed for mobile phones, M-Pesa and real conditions in the field.
 
-[Portfolio](https://munene1212.github.io) · [Emen](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munene-ndegwa-7167b718a) · [X](https://x.com/MunE_nE) · [Email](mailto:munene@ementech.co.ke)
+[Portfolio](https://munene1212.github.io) · [Emen](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munenen) · [X](https://x.com/MunE_nE) · [Email](mailto:munene@ementech.co.ke)
 
 </td>
 </tr>
