@@ -15,11 +15,11 @@
 </td>
 <td>
 
-**Founder & CTO at [Emen](https://ementech.co.ke) · Nairobi, Kenya**
+**Founder of [DumuWaks](https://dumuwaks.co.ke) · Founder & CTO at [Emen](https://ementech.co.ke) · Nairobi, Kenya**
 
-I lead a team that builds software platforms, applied AI and connected hardware for Kenyan businesses — designed for mobile phones, M-Pesa and real conditions in the field.
+I build the digital rails for Kenya's informal service businesses — starting with DumuWaks, where fundis get customers and get paid safely through M-Pesa escrow.
 
-[Portfolio](https://munene1212.github.io) · [Emen](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munenen) · [X](https://x.com/MunE_nE) · [Email](mailto:munene@ementech.co.ke)
+[Building DumuWaks (live numbers)](https://munene1212.github.io/building.html) · [Portfolio](https://munene1212.github.io) · [Emen](https://ementech.co.ke) · [LinkedIn](https://linkedin.com/in/munenen) · [X](https://x.com/MunE_nE) · [Email](mailto:munene@ementech.co.ke)
 
 </td>
 </tr>
@@ -37,13 +37,18 @@ I’m an Electrical & Electronic Engineer and the technical lead at Emen, which 
 
 I’m especially interested in technology that works beyond the demo: on a low-bandwidth connection, on a mobile phone, through an M-Pesa flow, or on a real device in the field.
 
+## Now building: DumuWaks
+
+[DumuWaks](https://dumuwaks.co.ke) is a repair and maintenance marketplace for Kenya. Customers find a verified fundi; the full price is paid by M-Pesa into escrow and released when the job is done; an append-only ledger is reconciled every day. Progress and live numbers are public on [Building DumuWaks](https://munene1212.github.io/building.html), and the design is written up in [Escrow on M-Pesa](https://munene1212.github.io/escrow-on-mpesa.html).
+
+[Source](https://github.com/MUNENE1212/dumuwaks) · React · TypeScript · Node.js · MongoDB · Socket.IO · IntaSend · WhatsApp
+
 ## Selected work
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | [ArdaLink](https://github.com/MUNENE1212/ardalink-engine) · [API](https://github.com/MUNENE1212/ardalink-api) · [Web](https://github.com/MUNENE1212/ardalink-web) | Satellite-to-pastoralist drought intelligence for Isiolo County, combining environmental data, journey planning, voice workflows, and operator tools. | Python · FastAPI · TypeScript · React · PostgreSQL · Earth Engine |
-| [Dumu Waks](https://github.com/MUNENE1212/dumuwaks) · [Live app](https://dumuwaks.ementech.co.ke) | A Kenya-focused maintenance and repair marketplace with technician matching, booking, real-time communication, and M-Pesa payments. | TypeScript · React · Node.js · MongoDB · Socket.IO |
-| [KEROMA](https://github.com/MUNENE1212/keroma) · [Live app](https://keroma.ementech.co.ke) | African heritage recipe intelligence that connects what is in your kitchen with the cultural context behind the meal. | Next.js · TypeScript · AI · MongoDB · M-Pesa |
+| [KEROMA](https://github.com/MUNENE1212/keroma) | African heritage recipe intelligence that connects what is in your kitchen with the cultural context behind the meal. | Next.js · TypeScript · AI · MongoDB · M-Pesa |
 | [Image Generator](https://github.com/MUNENE1212/image-generator) | A research-oriented image generation studio for identity-preserving portraits, strategy comparison, automated evaluation, and LoRA training. | Python · Streamlit · Replicate · Fal.ai · DuckDB |
 | [TransitTag](https://github.com/MUNENE1212/transittag) | An IoT transport platform that bridges vehicle devices, MQTT telemetry, WebSockets, dashboards, and M-Pesa-enabled passenger experiences. | C · MQTT · WebSockets · InfluxDB · Grafana |
 | [Lectern](https://github.com/MUNENE1212/lectern) | Turns any PDF, ebook or article into a chaptered audiobook, entirely offline. | Python · Piper TTS · PyMuPDF |
